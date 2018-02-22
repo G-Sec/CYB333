@@ -33,6 +33,7 @@ Next, install required dependencies. ( if pip not installed)
 User must set desired file path for CVE, Exploit DB, and scan files.
 		
 Open 	
+
 		CYB333.py 
 	
 Designate desired file path in lines:28, 49, 56, 77, and 117. There are 5 total path designations.
