@@ -18,13 +18,13 @@ First retrieve the files to be downloaded from github.
 
 Next, install required dependencies. ( if pip not installed) 
 	
-	Install pip
+	Install pip3
 
-		sudo apt-get install python-pip
+		sudo apt-get install python-pip3
 	
 	Install dependencies
 
-		sudo pip -r requirements.txt
+		sudo pip3 -r requirements.txt
 
 	Enable write and execute permissions
 
