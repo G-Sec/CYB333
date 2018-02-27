@@ -16,11 +16,11 @@ First retrieve the files to be downloaded from github.
 
 		git clone https://github.com/G-Sec/CYB333.git
 
-Next, install required dependencies. ( if pip not installed) 
+Next, install required dependencies. 
 	
-	Install pip3
+	Install pip for python 3  (if pip3 is not installed)
 
-		sudo apt-get install python-pip3
+		sudo apt-get install python3-pip
 	
 	Install dependencies
 
