@@ -22,9 +22,13 @@ Next, install required dependencies.
 
 		sudo apt-get install python3-pip
 	
+	Navigate to the CYB333 folder that was downloaded from GitHub
+	
+		cd /'filepath'/CYB333
+		
 	Install dependencies
 
-		sudo pip3 -r requirements.txt
+		sudo pip3 install -r requirements.txt
 
 	Enable write and execute permissions
 
