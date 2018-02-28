@@ -18,19 +18,19 @@ First retrieve the files to be downloaded from github.
 
 Next, install required dependencies. 
 	
-	Install pip for python 3  (if pip3 is not installed)
+Install pip for python 3  (if pip3 is not installed)
 
 		sudo apt-get install python3-pip
 	
-	Navigate to the CYB333 folder that was downloaded from GitHub
+Navigate to the CYB333 folder that was downloaded from GitHub
 	
 		cd /'filepath'/CYB333
 		
-	Install dependencies
+Install dependencies
 
 		sudo pip3 install -r requirements.txt
 
-	Enable write and execute permissions
+Enable write and execute permissions
 
 		sudo chmod a+x /'filepath'/CYB333/CYB333.py
 
